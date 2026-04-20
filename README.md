@@ -88,7 +88,7 @@ A modern, responsive personal portfolio website showcasing my work as a full-sta
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/abhijeetBhale/Portfolio.git
+   https://github.com/srinadh-kancharla/my-portfolio.git
    cd Portfolio
    ```
 
@@ -132,12 +132,14 @@ Portfolio/
 Update the Formspree endpoint in `script.js`:
 ```javascript
 const response = await fetch('https://formspree.io/f/YOUR_FORM_ID', {
+Line Number: 785
 ```
 
 ### GitHub Integration
 Update your GitHub username in `script.js`:
 ```javascript
 const username = 'YOUR_GITHUB_USERNAME';
+Line number:910
 ```
 
 ---

@@ -166,7 +166,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Contact
 
 - **Email**: srinadhkancharla05@gmail.com
-- **LinkedIn**: [Abhijeet Bhale](https://www.linkedin.com/in/kancharla-srinadh-6a30662b7/)
-- **GitHub**: [@abhijeetBhale](https://github.com/srinadh-kancharla)
-- **Instagram**: [@isocyanideisgood](https://www.instagram.com/srinadh_kancharla_53/)
+- **LinkedIn**: [Srinadh Kancharla](https://www.linkedin.com/in/kancharla-srinadh-6a30662b7/)
+- **GitHub**: [@srinadh-kancharla](https://github.com/srinadh-kancharla)
+- **Instagram**: [@srinadh_kancharla_53](https://www.instagram.com/srinadh_kancharla_53/)
 

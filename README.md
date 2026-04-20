@@ -76,7 +76,7 @@ A modern, responsive personal portfolio website showcasing my work as a full-sta
 
 ## 📸 Live Preview
 
-👉 [Live Demo](https://abhijeetbhale.github.io/Portfolio/)
+👉 [Live Demo](https://srinadh-kancharla.github.io/my-portfolio/)
 
 ## 📸 Screenshot
 

@@ -13,5 +13,4 @@
 - **GitHub**: [@srinadh-kancharla](https://github.com/srinadh-kancharla)
 - **Instagram**: [@srinadh_kancharla_53](https://www.instagram.com/srinadh_kancharla_53/)
 
----
-## Special Thanks for [Abhijeet Bhale](https://github.com/abhijeetBhale) 
+
